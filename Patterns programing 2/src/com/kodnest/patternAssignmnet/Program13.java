@@ -1,16 +1,4 @@
 package com.kodnest.patternAssignmnet;
-/*
- *   A 
-    A B 
-   A B C 
-  A B C D 
- A B C D E 
-  A B C D 
-   A B C 
-    A B 
-     A
- * 
- */
 public class Program13 {
 public static void main(String[] args) {
 	for(int i=1;i<=5;i++) {

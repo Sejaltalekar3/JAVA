@@ -1,13 +1,4 @@
 package com.kodnest.patternAssignmnet;
-/*
- * A
- * BC
- * DEF
- * GHIJ
- * KLMNO
- * PQRSTU
- *
- */
 public class Program24 {
 public static void main(String[] args) {
 	char ch = 'A';

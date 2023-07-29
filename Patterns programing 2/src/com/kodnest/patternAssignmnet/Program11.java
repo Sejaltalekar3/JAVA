@@ -1,15 +1,4 @@
 package com.kodnest.patternAssignmnet;
-
-
-/*
- * 1        1
- * 12      21
- * 123    321
- * 1234  4321
- * 1234554321
- * 
- * 
- */
 public class Program11 {
     public static void main(String[] args) {
         for (int i = 1; i <= 5; i++) {

@@ -1,19 +1,4 @@
 package com.kodnest.patternAssignmnet;
-/*
-  
- * * * * * * * * *  
-  *           *   
-    *       *     
-      *   *       
-        *         
-      *   *       
-    *       *     
-  *           *   
-*               * 
-* * * * * * * * *
-
- * 
- */
 public class Program19 {
 public static void main(String[] args) {
 	for(int i=1;i<=10;i++) {

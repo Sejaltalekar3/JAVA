@@ -1,13 +1,4 @@
 package com.kodnest.patternAssignmnet;
-/*
- * A
- * BA
- * CBA
- * DBCA
- * EDBCA
- * FEBBCA
-  
- */
 public class Program23 {
 public static void main(String[] args) {
 	for (int i = 1; i <= 6; i++) {
